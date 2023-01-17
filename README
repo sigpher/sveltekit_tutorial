@@ -1,0 +1,4 @@
+There are two basic concepts:
+
+Each page of your app is a Svelte component
+You create pages by adding files to the src/routes directory of your project. These will be server-rendered so that a user's first visit to your app is as fast as possible, then a client-side app takes over
